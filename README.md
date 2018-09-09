@@ -5,5 +5,6 @@ A Simple Front-end BlogApp having functionalities like:
 	•	Title, partition between consecutive blogs.
 
 Technologies used:
+	
 	•	HTML, CSS
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
